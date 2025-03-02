@@ -1,0 +1,54 @@
+
+
+<!DOCTYPE html>
+<!-- page niveau 1 : sans feuille de style css -->
+<html>
+
+<head>
+	<title>L'architecture</title>
+	<meta charset="UTF-8">
+	<meta name="author" content="lex" > </head>
+	<link rel="stylesheet" href="feuillestyle.css">
+
+<body>
+<div>
+	<h1>Informations sur l'architecture</h1>
+	<h2>Les architectes les plus célèbres: </h2>
+	<p>Il existe de nombreux architectes mais en voici deux des plus <strong>connus</strong>.</p>
+
+
+	<h3>Jean Nouvel:</h3>
+	<p> On commence tout d'abord avec <em>Jean Nouvel</em>
+	<p> <img src="https://www.studio-idan.fr/wp-content/uploads/2023/12/1989JeanNouvelCigareParisLivre2023-scaled.jpg"width=200 height=200></p>
+		<br> C'est un architecte français né en 1945, à Fumel. Il est responsable de l'architecture de grands batiments, notamment  la Philharmonie de Paris. Il est nommé architecte contemporain de renomméé internationale. </p>
+	<p> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9f/Philharmonie_Novembre_2022.jpeg/260px-Philharmonie_Novembre_2022.jpeg">
+		<br> <small>image provenant du site <em>wikipedia</em></small> </p>
+
+
+	<h3>Zaha Hadid:</h3>
+	<p><em>Zaha Hadid</em> est une architecte née en 1950.</p>
+	<p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg/800px-Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg"width=200 height=200></p>
+ 	<p>Elle est responsable de l'architecture de nombreux batiments dont le Phaeno. Elle est la figure du mouvement déconstructivité où elle donne à ses oeuvres une allure futuriste.</p>
+	<p><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Phaeno_Suedseite_RB.jpg/1920px-Phaeno_Suedseite_RB.jpg width=260 height=130>
+
+
+                <h3>Frank GEHRY:</h3>
+	<p><em>Frank Owen Goldberg</em>, dit Frank Owen Gehry, est né en 1929, à Toronto au Canada, est un architecte américano-canadien. Il est Professeur d’architecture à l’université Yale.</p>
+	<p> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.parismatch.com%2FVivre%2FVoyage%2FFrank-Gehry-Dans-mon-travail-c-est-avant-tout-l-intuition-qui-me-guide-1668387&psig=AOvVaw1bcRlp-KguWBUTpGZIjdd5&ust=1710845326619000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjVpr_Q_YQDFQAAAAAdAAAAABAI"width=200 height=200></p>
+ 	<p>Un starchitecte, il est celui qui bâti "l'effet Guggenheim".</p>
+	<p><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.quizzmix.com%2Fwp-content%2Fuploads%2F2023%2F11%2Fle-musee-guggenheim-fb.webp&tbnid=bKOtxvu-z9X0DM&vet=12ahUKEwjSmuvT0v2EAxWhdKQEHdplCQEQMygoegUIARCWAQ..i&imgrefurl=https%3A%2F%2Fwww.quizzmix.com%2Fsnax_quiz%2Fle-musee-guggenheim-de-bilbao%2F&docid=wD-c0MzcTlXfZM&w=1200&h=630&q=effet%20guggenheim&ved=2ahUKEwjSmuvT0v2EAxWhdKQEHdplCQEQMygoegUIARCWAQ" width=200 height=140>
+
+	
+	<h3>Sources et autres pages</h3>
+	<ul>
+		<li>La page de <a href="https://fr.wikipedia.org/wiki/Jean_Nouvel">Jean Nouvel</a> sur Wikipédia</li>
+		<li>La page de <a href="https://fr.wikipedia.org/wiki/Philharmonie_de_Paris">la Philarmonie de Paris</a> sur Wikipédia</li>
+		<li>La page de <a href="https://fr.wikipedia.org/wiki/Zaha_Hadid">Zaha Hadid</a> sur Wikipédia</li>
+		<li>La page du <a href="https://fr.wikipedia.org/wiki/Phaeno">Phaeno</a> sur Wikipédia</li>
+	</ul>
+	<h5>Page rédigée par <em>Denisselle C.</em></h5> 
+</div>
+<script src = "script.js"></script>
+</body>
+
+</html>

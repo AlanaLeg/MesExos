@@ -1,0 +1,39 @@
+var button1 = document.querySelector("#but1")
+var button2 = document.querySelector("#but2")
+var button3 = document.querySelector("#but3")
+
+function mafonction(){
+var corps= document.querySelector("body");
+var div= document.querySelector("div");
+corps.style.backgroundColor="rgb(72,61,139)";
+div.style.backgroundColor="rgb(0,0,102)";
+}
+function mafonct(){
+var body= document.querySelector("body");
+var devant= document.querySelector("div");
+body.style.backgroundColor="rgb(255,178,102)";
+devant.style.backgroundColor="rgb(204,102,0)";
+}
+function mafoncti(){
+var body= document.querySelector("body");
+var devant= document.querySelector("div");
+body.style.backgroundColor="rgb(153,255,204)";
+devant.style.backgroundColor="rgb(0,204,204)";
+}
+function mouseovercol1() {
+    button1.style.backgroundColor ="rgb(72,61,139)";
+}
+function mouseovercol2() {
+    button2.style.backgroundColor ="rgb(255,178,102)";
+}
+function mouseovercol3() {
+    button3.style.backgroundColor ="rgb(72,61,139)";
+}
+button1.addEventListener("click",mafonction);
+button2.addEventListener("click",mafonct);
+button3.addEventListener("click",mafoncti)
+
+button1.addEventListener("mouseover",mouseovercol1)
+
+
+

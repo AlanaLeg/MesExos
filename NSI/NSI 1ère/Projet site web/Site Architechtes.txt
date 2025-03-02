@@ -1,0 +1,63 @@
+
+
+<!DOCTYPE html>
+<!-- page niveau 1 : sans feuille de style css -->
+<html>
+
+<head>
+	<title>L'architecture</title>
+	<meta charset="UTF-8">
+	<meta name="author" content="lex" > </head>
+	<link rel="stylesheet" href="feuillestyle.css">
+
+<body>
+<div>
+	<p id ="Change">
+	Changer la couleur de la page : 
+	<button id="but1">Bleu</button>
+	</p>
+	<h1>Informations sur l'architecture</h1>
+	<h2>Les architectes les plus célèbres: </h2>
+	<p>Il existe de nombreux architectes mais en voici deux des plus <strong>connus</strong>.</p>
+
+
+	<h3>Jean Nouvel:</h3>
+	<p> On commence tout d'abord avec <em>Jean Nouvel</em>
+	<p> <img src="https://www.studio-idan.fr/wp-content/uploads/2023/12/1989JeanNouvelCigareParisLivre2023-scaled.jpg"width=200 height=200></p>
+		<br> C'est un architecte français né en 1945, à Fumel. Il est responsable de l'architecture de grands bâtiments, notamment  la Philharmonie de Paris. Il est nommé architecte contemporain de renomméé internationale. </p>
+	<p> <img src="https://upload.wikimedia.org/wikipedia/fr/thumb/9/9f/Philharmonie_Novembre_2022.jpeg/260px-Philharmonie_Novembre_2022.jpeg">
+		<br> <small>image provenant du site <em>wikipedia</em></small> </p>
+	<p>Autres exemples de bâtiments de Jean Nouvel: Musée National du Qatar, Louvre Abou Dabi, Tour Agbar, World Trade Center ( Tour de Marseille), Fondation Cartier, Tour Hekla, Musée Reina Sofia...</p>
+
+
+	<h3>Zaha Hadid:</h3>
+	<p><em>Zaha Hadid</em> est une architecte née en 1950.</p>
+	<p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg/800px-Zaha_Hadid_in_Heydar_Aliyev_Cultural_center_in_Baku_nov_2013.jpg"width=200 height=200></p>
+ 	<p>Elle est responsable de l'architecture de nombreux bâtiments dont le Phaeno. Elle est la figure du mouvement déconstructivité où elle donne à ses oeuvres une allure futuriste.</p>
+	<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Phaeno_Suedseite_RB.jpg/260px-Phaeno_Suedseite_RB.jpg" width=260 height=130>
+	<p>Autres examples d'oeuvres de Zaha HADID: Centre culturel Heydar-Aliyev, Musée MAXXI, Havenhuis, Aquatics Centre, Leeza SOHO, Guang Zhou Da Ju Yuan...</p>
+
+
+                <h3>Frank GEHRY:</h3>
+	<p><em>Frank Owen Goldberg</em>, dit Frank Owen Gehry, est né en 1929, à Toronto au Canada, est un architecte américano-canadien. Il est Professeur d’architecture à l’université Yale et considéré comme l'un des plus importants architectes vivant depuis le début de XXIe siècle.Frank reçu le Prix Pritzker. Il a comme partenaires commercials: Vlado Milunic, Robert Venturi, Myron Hunt...</p>
+	<p> <img src="https://arthive.net/res/media/img/sx200/artist/2dd/771784@2x.jpg"width=200 height=200></p>
+ 	<p>Cet starchitecte est celui qui bâti un musée et créea l'effet Bilbao, plus connu sous le nom de "l'effet Guggenheim".Il s'agit de la façon dont un équipement culturel majeur peut infléchir la trajectoire d'une ville et lui permettre de sortir d'un déclin par la culture et le tourisme.</p>
+	<p><img src="https://atlantico-media.s3.eu-west-3.amazonaws.com/guggenheim_museum_bilbao_july_2010_06_0658c419ab.jpg" width=200 height=140>
+	<p>Autres exemples de créations de Frank Gehry: Gerhy Residence, Maison dansante, Fondation Louis Vuitton, Hôtel Marqués de Riscal, 8 Spruc, Museum of Pop Culture...</p>
+
+	
+	<h3>Sources et autres pages</h3>
+	<ul>
+		<li>La page de <a href="https://fr.wikipedia.org/wiki/Jean_Nouvel">Jean Nouvel</a> sur Wikipédia</li>
+		<li>La page de <a href="https://fr.wikipedia.org/wiki/Philharmonie_de_Paris">la Philarmonie de Paris</a> sur Wikipédia</li>
+		<li>La page de <a href="https://fr.wikipedia.org/wiki/Zaha_Hadid">Zaha Hadid</a> sur Wikipédia</li>
+		<li>La page du <a href="https://fr.wikipedia.org/wiki/Phaeno">Phaeno</a> sur Wikipédia</li>
+		<li>La page de <a href="https://fr.wikipedia.org/wiki/Frank_Gehry">Frank Gehry</a> sur Wikipédia</li>
+		<li>La page de <a href="https://geoconfluences.ens-lyon.fr/glossaire/effet-bilbao-ou-effet-guggenheim#:~:text=L'%C2%AB%20effet%20Bilbao%20%C2%BB%20ou,la%20culture%20et%20le%20tourisme."> l'effet Guggenheim bilbao</a> sur Geoconfluences</li>
+	</ul>
+	<h5>Page rédigée par <em>Célia et Alana</em></h5> 
+</div>
+<script src="script.js"></script>
+</body>
+
+</html>
